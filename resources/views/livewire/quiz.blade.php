@@ -111,7 +111,7 @@
                         Play Again
                     </button>
                     <a
-                        href="{{ route('dashboard') }}"
+                        href="{{ route('home') }}"
                         class="px-8 py-3 bg-gray-700 hover:bg-gray-600 text-white font-bold rounded-lg transition-colors duration-200"
                     >
                         Home
